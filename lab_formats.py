@@ -1,17 +1,4 @@
-r"""
-Lab: Rosetta Stone -- round-tripping data between JSON, YAML, TOML, and CSV.
-
-Fill in each function body so that its doctests pass. Run the tests with:
-
-    python3 -m doctest lab_formats.py
-
-Silence means every test passed; any output is a failure telling you what it
-`Expected` and what it `Got`. See the lab page for the full write-up.
-
-Two of these functions need PyYAML, which is not in the standard library:
-
-    pip install pyyaml
-"""
+"""Starter functions for the Rosetta Stone lab."""
 
 import json
 import csv
